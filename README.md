@@ -1,7 +1,7 @@
 
 # Componente SFTP para .NET
 
-Este componente permite a integração com servidores SFTP, permitindo baixar arquivos, listar arquivos e recuperar detalhes de arquivos diretamente do servidor remoto. Utilizando boas práticas como Clean Code, Injeção de Dependência e utilizando o WinSCP.
+Este componente permite a integração com servidores SFTP, permitindo baixar arquivos, listar arquivos e recuperar detalhes de arquivos diretamente do servidor remoto. Utilizando o WinSCP.
 
 ## Funcionalidades Principais
 
